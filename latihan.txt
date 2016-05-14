@@ -1,3 +1,5 @@
 versi pertama
 
 latihan git nih
+
+revisi pertama lhoo
